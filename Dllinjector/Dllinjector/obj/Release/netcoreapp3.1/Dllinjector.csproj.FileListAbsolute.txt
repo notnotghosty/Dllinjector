@@ -1,0 +1,13 @@
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\bin\Release\netcoreapp3.1\Dllinjector.exe
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\bin\Release\netcoreapp3.1\Dllinjector.deps.json
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\bin\Release\netcoreapp3.1\Dllinjector.runtimeconfig.json
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\bin\Release\netcoreapp3.1\Dllinjector.runtimeconfig.dev.json
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\bin\Release\netcoreapp3.1\Dllinjector.dll
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\bin\Release\netcoreapp3.1\Dllinjector.pdb
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\obj\Release\netcoreapp3.1\Dllinjector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\obj\Release\netcoreapp3.1\Dllinjector.AssemblyInfoInputs.cache
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\obj\Release\netcoreapp3.1\Dllinjector.AssemblyInfo.cs
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\obj\Release\netcoreapp3.1\Dllinjector.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\obj\Release\netcoreapp3.1\Dllinjector.dll
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\obj\Release\netcoreapp3.1\Dllinjector.pdb
+C:\Users\Ghost\source\repos\Dllinjector\Dllinjector\obj\Release\netcoreapp3.1\Dllinjector.genruntimeconfig.cache
