@@ -1,0 +1,13 @@
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\bin\Release\netcoreapp3.1\Launchtwobats.deps.json
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\bin\Release\netcoreapp3.1\Launchtwobats.dll
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\bin\Release\netcoreapp3.1\Launchtwobats.pdb
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\obj\Release\netcoreapp3.1\Launchtwobats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\obj\Release\netcoreapp3.1\Launchtwobats.AssemblyInfoInputs.cache
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\obj\Release\netcoreapp3.1\Launchtwobats.AssemblyInfo.cs
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\obj\Release\netcoreapp3.1\Launchtwobats.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\obj\Release\netcoreapp3.1\Launchtwobats.dll
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\obj\Release\netcoreapp3.1\Launchtwobats.pdb
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\bin\Release\netcoreapp3.1\Launchtwobats.exe
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\bin\Release\netcoreapp3.1\Launchtwobats.runtimeconfig.json
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\bin\Release\netcoreapp3.1\Launchtwobats.runtimeconfig.dev.json
+C:\Users\Ghost\source\repos\Launchtwobats\Launchtwobats\obj\Release\netcoreapp3.1\Launchtwobats.genruntimeconfig.cache
