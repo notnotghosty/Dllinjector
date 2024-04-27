@@ -1,0 +1,13 @@
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\bin\Debug\netcoreapp3.1\Launchtwobats.exe
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\bin\Debug\netcoreapp3.1\Launchtwobats.deps.json
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\bin\Debug\netcoreapp3.1\Launchtwobats.runtimeconfig.json
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\bin\Debug\netcoreapp3.1\Launchtwobats.runtimeconfig.dev.json
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\bin\Debug\netcoreapp3.1\Launchtwobats.dll
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\bin\Debug\netcoreapp3.1\Launchtwobats.pdb
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\obj\Debug\netcoreapp3.1\Launchtwobats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\obj\Debug\netcoreapp3.1\Launchtwobats.AssemblyInfoInputs.cache
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\obj\Debug\netcoreapp3.1\Launchtwobats.AssemblyInfo.cs
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\obj\Debug\netcoreapp3.1\Launchtwobats.csproj.CoreCompileInputs.cache
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\obj\Debug\netcoreapp3.1\Launchtwobats.dll
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\obj\Debug\netcoreapp3.1\Launchtwobats.pdb
+C:\Destiny\Dllinjector-main\Launchtwobats\Launchtwobats\obj\Debug\netcoreapp3.1\Launchtwobats.genruntimeconfig.cache

@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Ghost\\.nuget\\packages\\": {}
+    "C:\\Users\\Ghost\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ghost\\source\\repos\\Launchtwobats\\Launchtwobats\\Launchtwobats.csproj",
+      "projectUniqueName": "C:\\Destiny\\Dllinjector-main\\Launchtwobats\\Launchtwobats\\Launchtwobats.csproj",
       "projectName": "Launchtwobats",
-      "projectPath": "C:\\Users\\Ghost\\source\\repos\\Launchtwobats\\Launchtwobats\\Launchtwobats.csproj",
+      "projectPath": "C:\\Destiny\\Dllinjector-main\\Launchtwobats\\Launchtwobats\\Launchtwobats.csproj",
       "packagesPath": "C:\\Users\\Ghost\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ghost\\source\\repos\\Launchtwobats\\Launchtwobats\\obj\\",
+      "outputPath": "C:\\Destiny\\Dllinjector-main\\Launchtwobats\\Launchtwobats\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,6 +66,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
